@@ -1,3 +1,3 @@
-# React App
+# React App boilerplate 
 
-This is a plain react app with clea code
+This is a plain react app with clean code
